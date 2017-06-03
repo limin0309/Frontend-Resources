@@ -1,7 +1,7 @@
 #Koala With Frontend Development Resources 
 
 
-下面的资料都是我平时收集的一些前端资源。有些资料可能不属于前端，纯属收藏来着，喜欢就拿走。^_^
+下面的资料都是我平时收集的一些前端资源。有些资料可能不属于前端，纯属收藏，喜欢就拿走。^_^
 
 1. 推荐指数: ★ 一颗星    ☆ 半颗星
 2. 中文标注: (中)
@@ -14,7 +14,6 @@
 * [Can I use] (http://caniuse.com/) 提供的功能在html5，css3，svg和其他即将出现的web技术的兼容性表。★★★★
 * [W3help] (http://w3help.org/zh-cn/) 提供W3C标准，兼容性的根本原因，知识库，案例分析。★★★☆ (中)
 * [findmebyip] (http://www.findmebyip.com/litmus/) 提供HTML5标准在各个浏览器的兼用情况。
-
 
 ---
 
@@ -110,7 +109,7 @@
 
 ######Search Tools 搜索工具
 
-* [Microjs] (http://microjs.com/) 搜索JavaScript库，还行。不同通常都是直接Google搜来着。
+* [Microjs] (http://microjs.com/) 搜索JavaScript库，还行。不同通常都是直接Google搜来的。
 * [Angular Modules] (http://ngmodules.org/) Angular模块搜索。
 * [Npm Search] (http://npmsearch.com/) NPM模块搜索。
 * [Javascript OO] (http://www.javascriptoo.com/) 展示了很多项目可以用到的JS类库。还提供了demo，非常贴心。
