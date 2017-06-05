@@ -1,4 +1,4 @@
-#Koala With Frontend Development Resources 
+Front-end development resources
 
 
 下面的资料都是我平时收集的一些前端资源。有些资料可能不属于前端，纯属收藏，喜欢就拿走。^_^
